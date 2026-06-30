@@ -1,10 +1,10 @@
-package com.exchangex.order_matching_engine;
+package com.ashutosh.exchangex;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class OrderMatchingEngineApplicationTests {
+class ExchangeXApplicationTests {
 
 	@Test
 	void contextLoads() {

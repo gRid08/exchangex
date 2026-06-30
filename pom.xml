@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.exchangex</groupId>
-	<artifactId>order-matching-engine</artifactId>
+	<artifactId>exchangex</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name/>
 	<description/>

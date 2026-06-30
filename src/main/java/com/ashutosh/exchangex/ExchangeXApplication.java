@@ -1,13 +1,13 @@
-package com.exchangex.order_matching_engine;
+package com.ashutosh.exchangex;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class OrderMatchingEngineApplication {
+public class ExchangeXApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(OrderMatchingEngineApplication.class, args);
+		SpringApplication.run(ExchangeXApplication.class, args);
 	}
 
 }
